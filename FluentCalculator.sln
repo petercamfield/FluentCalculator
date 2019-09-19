@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentCalculator", "FluentCalculator.csproj", "{490F978F-33CD-4272-9BBD-A2FE4043073C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{490F978F-33CD-4272-9BBD-A2FE4043073C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490F978F-33CD-4272-9BBD-A2FE4043073C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490F978F-33CD-4272-9BBD-A2FE4043073C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490F978F-33CD-4272-9BBD-A2FE4043073C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E48C355A-A67E-44F2-8438-22C0B0D0E400}
+	EndGlobalSection
+EndGlobal
